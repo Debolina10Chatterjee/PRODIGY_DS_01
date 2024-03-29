@@ -1,4 +1,4 @@
-# Prodigy Infotech Data Science Internship Task 01
+# Visualization
 
 🌟 Welcome to the Prodigy Infotech Data Science Internship Task 01! Let's embark on a journey of data exploration with the World Bank Group Analysis! 🌐📈
 
@@ -45,6 +45,6 @@ Contributions are encouraged! Whether you want to enhance the analysis or add ne
 ## 📬 Contact
 Questions or suggestions? Reach out to:
 - **DEBOLINA CHATTERJEE**
-- **Email:** [debolina10chatterjee@gmail.com](mailto:debolina10chatterjee@gmail.com)
+- **Email:** debolinachatterjee1011@gmail.com (mailto:debolinachatterjee1011@gmail.com)
 
 Explore the world's data, analyze global trends, and uncover the stories within the World Bank Group dataset! 🌍📊
