@@ -4,7 +4,7 @@
 
 ## Tools Utilized
 - 🐍 Python
-- 📔 Jupyter Notebook
+- 📔 Google Colab
 - 📊 Matplotlib Library
 
 ## Task Overview
@@ -21,7 +21,7 @@
     ```
     https://github.com/Debolina10Chatterjee/PRODIGY_DS_01.git
     ```
-2. ▶️ Open the Jupyter Notebook provided in the repository.
+2. ▶️ Open the google colab notebook provided in the repository.
 3. 👀 Run cells to execute Python code.
 4. 📊 View visualizations for insights into global age and gender distributions.
 
