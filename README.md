@@ -18,7 +18,7 @@
 
 ## 🛠️ Setup and Usage
 1. 🚀 Clone the repository:
-    ```bash
+    ```
     git clone https://github.com/gl-ankit-kumar/PRODIGY_DS_01.git
     ```
 2. ▶️ Open the Jupyter Notebook provided in the repository.
