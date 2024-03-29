@@ -19,7 +19,7 @@
 ## 🛠️ Setup and Usage
 1. 🚀 Clone the repository:
     ```
-    git clone https://github.com/gl-ankit-kumar/PRODIGY_DS_01.git
+    [git clone https://github.com/gl-debolina-chatterjee/PRODIGY_DS_01.git](https://github.com/Debolina10Chatterjee/PRODIGY_DS_01.git)
     ```
 2. ▶️ Open the Jupyter Notebook provided in the repository.
 3. 👀 Run cells to execute Python code.
